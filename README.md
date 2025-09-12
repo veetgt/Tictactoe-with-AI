@@ -24,5 +24,3 @@ Follow the steps below to run the project locally.
     git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/veetgt/Tictactoe-with-AI.git)
     cd YOUR_REPO_NAME
     ```
-2.  **(Optional) Create and activate a virtual environment:**
-    ```bash
