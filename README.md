@@ -1,4 +1,4 @@
-# 🤖 Tic-Tac-Toe with Minimax AI
+# Tic-Tac-Toe with Minimax AI
 
 An implementation of the classic Tic-Tac-Toe game where a human player faces an unbeatable AI based on the Minimax algorithm. This project was developed as part of Harvard's CS50's Introduction to Artificial Intelligence with Python course.
 
